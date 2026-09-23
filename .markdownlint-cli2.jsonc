@@ -1,0 +1,10 @@
+{
+  "config": {
+    "default": true,
+    // Prose is wrapped by the reader's editor, not at a fixed width.
+    "MD013": false,
+    // The profile opens with a centred logo block rather than a Markdown heading.
+    "MD033": { "allowed_elements": ["p", "img", "a", "h1", "strong", "br"] },
+    "MD041": false
+  }
+}
