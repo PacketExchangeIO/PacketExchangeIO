@@ -17,6 +17,9 @@
 ## What you can build
 
 - **Send SMS and place calls** over wholesale routes, priced at the rate each carrier lists plus a small platform fee.
+- **Follow every message and call**: SMS delivery status from carrier receipts where the route returns them, and live call status by API or webhook.
+- **Build interactive calls** that speak text in six languages, play audio and collect keypad input.
+- **Look up a number** for its country, line type, network and cheapest price before you send, free.
 - **Verify phone numbers** with one-time codes sent by SMS or read aloud on a voice call.
 - **Search and buy routes** by destination, price and seller-stated quality, and let Smart Routing pick one per call.
 - **Buy and manage phone numbers** for inbound calls and messages.
