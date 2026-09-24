@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://packetexchange.io"><img src="assets/banner.png" alt="PacketExchange: where carrier traffic trades" width="100%"></a>
+  <a href="https://packetexchange.io"><img src="assets/banner.png" alt="PacketExchange: voice and SMS APIs at wholesale prices" width="100%"></a>
 </p>
 
-<p align="center"><strong>The live carrier marketplace for wholesale voice and SMS, a hosted switch run by AI Control, and one API for developers.</strong></p>
+<p align="center"><strong>SMS, voice, verification, numbers and AI voice agents on one API key, priced at the carrier's own rate plus a published 2% fee.</strong></p>
 
 <p align="center">
   <a href="https://packetexchange.io">Website</a> ·
