@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://packetexchange.io"><img src="assets/logo.png" alt="PacketExchange" width="120" height="120"></a>
+  <a href="https://packetexchange.io"><img src="assets/banner.png" alt="PacketExchange: where carrier traffic trades" width="100%"></a>
 </p>
 
-<h1 align="center">PacketExchange</h1>
-
-<p align="center"><strong>The wholesale marketplace for voice and SMS, with one API for developers.</strong></p>
+<p align="center"><strong>The live carrier marketplace for wholesale voice and SMS, a hosted switch run by AI Control, and one API for developers.</strong></p>
 
 <p align="center">
   <a href="https://packetexchange.io">Website</a> ·
